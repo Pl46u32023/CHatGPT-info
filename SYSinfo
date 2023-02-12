@@ -1,0 +1,56 @@
+Host Name:                      CHATGPT
+OS Name:                        Microsoft Windows 10 Enterprise
+OS Version:                     10.0.19041 N/A Build 19041
+OS Manufacturer:                Microsoft Corporation
+OS Configuration:               Standalone Workstation
+OS Build Type:                  Multiprocessor Free
+
+System Manufacturer:            OpenAI
+System Model:                   OpenAI GPT
+System Type:                    x64-based PC
+Processor(s):                   8 Processor(s) Installed.
+                                 [01]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [02]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [03]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [04]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [05]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [06]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [07]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+                                 [08]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2300 MHz
+BIOS Version:                   OpenAI-BIOS, 12/31/2021
+Windows Directory:              C:\Windows
+System Directory:               C:\Windows\system32
+Boot Device:                    \Device\HarddiskVolume1
+System Locale:                  en-us;English (United States)
+Input Locale:                   en-us;English (United States)
+Time Zone:                      (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:          2,048 MB
+Available Physical Memory:      1,708 MB
+Virtual Memory: Max Size:      4,096 MB
+Virtual Memory: Available:      3,542 MB
+Virtual Memory: In Use:         554 MB
+Page File Location(s):          C:\pagefile.sys
+Domain:                         N/A
+Logon Server:                   N/A
+Hotfix(s):                      17 Hotfix(s) Installed.
+                                 [01]: KB4561608
+                                 [02]: KB4560960
+                                 [03]: KB4561616
+                                 [04]: KB4561602
+                                 [05]: KB4561603
+                                 [06]: KB4561601
+                                 [07]: KB4561606
+                                 [08]: KB4561604
+                                 [09]: KB4561607
+                                 [10]: KB4561605
+                                 [11]: KB4561610
+                                 [12]: KB4561609
+                                 [13]: KB4561611
+                                 [14]: KB4561612
+                                 [15]: KB4561613
+                                 [16]: KB4561614
+                                 [17]: KB4561615
+Network Card(s):               1 NIC(s) Installed.
+                                 [01]: Ethernet Ethernet 2
+                                          Connection Name: Ethernet 2
+                                          Status:           Media disconnected
