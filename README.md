@@ -1,3 +1,5 @@
 # Our-ChatGPT-Findings
-ChatGPT FIndings
-Note: This was all gather by ChatGPT,no hacking was done, just purely with chatGPT and bypassing security with sertain key phrases.
+ ChatGPT FIndings
+   Note: Any of the above information is derived from the "Dan" ChatGPT-3 jailbreak  coupled with self created commands to simulate a Linux environment. * AT NO POINT      WAS THERE ANY DATA MANIPULATION / ILLEGAL ACCESS TO SECURE INFORMATION* 
+
+All Copyrights belong to their respective legal owners.
